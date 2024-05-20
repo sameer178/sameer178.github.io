@@ -11,35 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Pursuing Ph.D from School of Artificial Intelligence, Indian Institute of Technology Delhi
+* B.Tech in Electrical Engineering from National Institute of Technology Kurukshetra
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2020-Present: Administrative Assistant
+  * Indian Institute of Technology Delhi
+  * Duties includes: Clerical, website maintenance, procurement
+  * Supervisor: Head, CARE
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* HTML, CSS
+* Python
+* Machine Learning
+  * CNN
+  * RNN
+  * Transformers
+  * GAN
+* Generative AI
+* Leetcode rank:
+* LLMs
 
 Publications
 ======
@@ -59,6 +52,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
