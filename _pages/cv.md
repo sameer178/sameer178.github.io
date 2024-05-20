@@ -16,9 +16,9 @@ Education
 
 Work experience
 ======
-* Spring 2020-Present: Administrative Assistant
+* June 2020-Present: Administrative Assistant
   * Indian Institute of Technology Delhi
-  * Duties includes: Clerical, website maintenance, procurement
+  * Duties include: Clerical, website maintenance, procurement
   * Supervisor: Head, CARE
   
 Skills
@@ -33,7 +33,7 @@ Skills
 * Generative AI
 * Leetcode rank:
 * LLMs
-
+<!--
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -52,4 +52,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-
+-->
