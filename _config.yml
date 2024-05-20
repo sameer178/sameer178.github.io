@@ -21,7 +21,7 @@ repository               : "sameer178/sameer178.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/sameer178/oldpage.github.io/blob/master/dp.jpg"
+  avatar           : "dp.jpg"
   name             : "Sameer Hansda"
   pronouns         : # example: "he/him"  
   bio              : "Working as Administrative Assistant in CARE."
