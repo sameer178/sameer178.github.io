@@ -11,7 +11,6 @@ redirect_from:
 
 Education
 ======
-* Pursuing Ph.D from School of Artificial Intelligence, Indian Institute of Technology Delhi
 * B.Tech in Electrical Engineering from National Institute of Technology Kurukshetra
 
 Work experience
