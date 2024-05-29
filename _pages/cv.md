@@ -20,7 +20,7 @@ Work experience
   * Duties include: Clerical, website maintenance, procurement
   * Supervisor: Head, CARE
   
-Skills
+Skills and Interests
 ======
 * HTML, CSS
 * Python
